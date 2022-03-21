@@ -2,6 +2,9 @@
 
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, Feature 1"); 
+
+        System.out.println("Hello, World!"); 
+        System.out.println("adding new line for feature2 !"); 
+
     }
 }
